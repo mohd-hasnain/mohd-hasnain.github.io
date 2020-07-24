@@ -58,11 +58,13 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-Some of my other interests and hobbies are:
-
-    - Marathon Runner
-    - Mentor - Awarded as ‘Azure Hero’ by Microsoft
+  Some of my other interests and hobbies are:
+  
+    - **Marathon Runner**
+    - **Mentor** - Awarded as **Azure Hero** by Microsoft
     - Business trip to USA in 2019, have valid B1 visa
+    
+    Papers Presented
     - Winner of Tekesis a national level presentation contest at AMU
     - Won 2nd prize in national level presentation contest at RTU, Kota
 
