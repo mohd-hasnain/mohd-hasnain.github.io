@@ -10,7 +10,7 @@ phone: +60 - 16 638 5810
 website: https://voidio.blogspot.com/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 github_username:  mohd-hasnain
@@ -18,9 +18,9 @@ linkedin_username: mohdhasnain
 
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+- title: blog
+  icon: <i class="fab fa-blogger-b"></i>
+  url: https://voidio.blogspot.com/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
