@@ -1,9 +1,19 @@
 # Project template
 - layout: top-middle
   name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    - PPG Lean Six Sigma Green Belt Certification
+    - Microsoft Certified: Azure Solutions Architect Expert
+    - Microsoft Certified: Azure DevOps Engineer Expert
+    - Microsoft Certified: Azure Security Engineer
+    - Microsoft Certified: Azure Administrator
+    - Microsoft Certified: Azure Developer Associate
+    - Microsoft Certified: Azure Fundamentals
+    - MapR Certified: Hadoop Developer
+    - ITIL v3 Certified: IT Service Management
+    - TCS Retail Management Certification
+    - TCS Lean Six Sigma Green Belt Certification
+    - Teradata Certified: Database Associate
+    - IBM Certified: DB2 DBA
+    - IBM Certified: DB2 Application Developer
+
