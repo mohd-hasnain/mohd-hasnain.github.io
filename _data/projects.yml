@@ -1,19 +1,18 @@
 # Project template
 - layout: top-middle
-  name: Project name
   description: | # this will include new lines to allow paragraphs
-    - PPG Lean Six Sigma Green Belt Certification
-    - Microsoft Certified: Azure Solutions Architect Expert
-    - Microsoft Certified: Azure DevOps Engineer Expert
-    - Microsoft Certified: Azure Security Engineer
-    - Microsoft Certified: Azure Administrator
-    - Microsoft Certified: Azure Developer Associate
-    - Microsoft Certified: Azure Fundamentals
-    - MapR Certified: Hadoop Developer
-    - ITIL v3 Certified: IT Service Management
-    - TCS Retail Management Certification
-    - TCS Lean Six Sigma Green Belt Certification
-    - Teradata Certified: Database Associate
-    - IBM Certified: DB2 DBA
-    - IBM Certified: DB2 Application Developer
+      - PPG Lean Six Sigma Green Belt Certification
+      - Microsoft Certified: Azure Solutions Architect Expert
+      - Microsoft Certified: Azure DevOps Engineer Expert
+      - Microsoft Certified: Azure Security Engineer
+      - Microsoft Certified: Azure Administrator
+      - Microsoft Certified: Azure Developer Associate
+      - Microsoft Certified: Azure Fundamentals
+      - MapR Certified: Hadoop Developer
+      - ITIL v3 Certified: IT Service Management
+      - TCS Retail Management Certification
+      - TCS Lean Six Sigma Green Belt Certification
+      - Teradata Certified: Database Associate
+      - IBM Certified: DB2 DBA
+      - IBM Certified: DB2 Application Developer
 
