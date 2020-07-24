@@ -38,7 +38,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   I am most skilled in: <mark>Azure</mark> and <mark>Big Data</mark>.
   
-  My Specialties are
+  My Specialties:
     - Platform Administration – Hadoop, Linux, Talend and Azure
     - Security - Hadoop and Azure Cloud
     - Big Data ecosystem setup and integration
@@ -58,9 +58,13 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is Hasnain where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+Some of my other interests and hobbies are:
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+    - Marathon Runner
+    - Mentor - Awarded as ‘Azure Hero’ by Microsoft
+    - Business trip to USA in 2019, have valid B1 visa
+    - Winner of Tekesis a national level presentation contest at AMU
+    - Won 2nd prize in national level presentation contest at RTU, Kota
 
 # Footer
 footer_show_references: true
