@@ -7,7 +7,6 @@ name: Mohd Hasnain
 title: Cloud Solution Architect – Data & AI
 email: mohd-hasnain@outlook.com
 phone: +60 - 16 638 5810 
-website: https://voidio.blogspot.com/
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -19,7 +18,7 @@ linkedin_username: mohdhasnain
 # Additional icon links
 additional_links:
 - title: blog
-  icon: <i class="fab fa-blogger-b"></i>
+  icon: assets/blogg.jpg
   url: https://voidio.blogspot.com/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -33,7 +32,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: assets/hasnain.jpg
+about_profile_image: assets/mohd.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome Hasnain description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
