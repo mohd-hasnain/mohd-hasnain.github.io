@@ -34,13 +34,17 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/hasnain.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome Hasnain description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  Over 10 years of profound experience as Cloud Solution Architect for all types of Data (Big, Small, Fast, whatever) and Advanced Analytics to drive high priority business initiatives on the Microsoft Azure, Cloudera/ Hortonworks and Databricks Platform. 
+  
+  I am most skilled in: <mark>Azure</mark> and <mark>Big Data</mark>.
+  
+  My Specialties are
+    - Platform Administration – Hadoop, Linux, Talend and Azure
+    - Security - Hadoop and Azure Cloud
+    - Big Data ecosystem setup and integration
+    - Scalable Ingestion Pipelines – EDW, Modern DW and ETL
+    - Real Time Data Solution – Lambda and Delta Architecture
+    - Azure DevOps – Infrastructure and Configuration Management
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
