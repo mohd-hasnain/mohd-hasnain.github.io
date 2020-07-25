@@ -1,10 +1,18 @@
 # Experience template
-- layout: left
-  company:  PPG Industries, Kuala Lumpur, Malaysia
+- company:  PPG Industries, Kuala Lumpur, Malaysia
   link: https://ppg.com/
   job_title: Cloud Solution Architect, Expert
   dates: Feb 2018 - present
-  quote: >
-   A global supplier of paints, coatings, and specialty materials.
+  #quote: >
+  # A global supplier of paints, coatings, and specialty materials.
   description: | # this will include new lines to allow paragraphs
     Provide an overall architect responsibility including roadmaps, leadership, planning, technical innovation, security, IT governance, performance benchmarking and reports.
+
+- company:  Cognizant Technology Solutions CTS, India
+  link: https://www.cognizant.com/
+  job_title: Big Data Architect
+  dates: Mar 2016 - Jan 2018
+  #quote: >
+  # A global supplier of paints, coatings, and specialty materials.
+  description: | # this will include new lines to allow paragraphs
+    Implemented Big Data Framework, Solutions and Algorithms with Spark/Hadoop and related technologies for next generation credit risk capabilities
