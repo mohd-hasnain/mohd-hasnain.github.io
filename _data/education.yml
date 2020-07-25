@@ -7,3 +7,20 @@
     Business Analytics Programme
   description: | # this will include new lines to allow paragraphs
     Currently pursuing this MBA
+    
+  name: Aligarh Muslim University(AMU), India
+  dates: 2005 - 2009
+  qualification: Bachelor of Technology(BTech)
+  quote: >
+    Electronics Engineering
+  description: | # this will include new lines to allow paragraphs
+    **Internships**
+      - IIT, Roorkee on VHDL - 2007
+      - RDSO, Lucknow on Robotics in Railway - 2008
+      
+    **Papers Presented**
+    - Winner of Tekesis a national level paper presentation contest at AMU
+    - Won 2nd prize in national level presentation contest at RTU, Kota
+    
+    **Final Year Project**
+    - Design of Line Following Robot Using IR Sensors in Embedded C
