@@ -45,6 +45,12 @@ about_content: | # this will include new lines to allow paragraphs
     - Scalable Ingestion Pipelines – EDW, Modern DW and ETL
     - Real Time Data Solution – Lambda and Delta Architecture
     - Azure DevOps – Infrastructure and Configuration Management
+    
+  Some of my other interests and hobbies are:
+  
+    - **Marathon Runner**
+    - **Mentor** - Awarded as **Azure Hero** by Microsoft
+    - Business trip to USA in 2019, have valid B1 visa
 
 # Projects Section
 projects_title: Certifications #(Use this to override about projects section title)
@@ -56,13 +62,32 @@ projects_title: Certifications #(Use this to override about projects section tit
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  Some of my other interests and hobbies are:
-  
-    - **Marathon Runner**
-    - **Mentor** - Awarded as **Azure Hero** by Microsoft
-    - Business trip to USA in 2019, have valid B1 visa
+    
+    <mark>Big Data Technologies</mark>- Spark, MapReduce, Flume, Kafka, Storm, Pig, Sqoop, Hue, Tez, Hive, Hcatalog
+    
+    <mark>Languages</mark>- Python, Scala, Java, SQL, Shell Scripting
+
+    <mark>File System</mark>- HDFS, DBFS, ADLS, S3, Sequence files, RCFile, HAR, blob, Avro, Parquet, ORC, Delta
+
+    <mark>Distribution</mark>- Cloudera, Hortonworks, MapR
+
+    <mark>Workflow Engines</mark>- Oozie, Azkban, Luigi, Airflow, Tivoli, Control-M
+
+    <mark>DevOps</mark>- Git, SVN, TFS, Jenkins, Maven, Nexus
+
+    <mark>RDBMS</mark>- MySQL, DB2, Teradata, SQL server
+
+    <mark>NoSQL</mark>- OpenTSDB, Hbase, Cassandra, Cosmos DB
+
+    <mark>Security</mark>- Kerberos, Ranger, Sentry, TDE, AD/LDAP, ACL
+
+    <mark>Monitoring</mark>- Nagios, Ganglia, White Elephant, PRTG
+
+    <mark>Cluster Manager</mark>-Zookeeper, Mesos, YARN, Ambari
+
+    <mark>BI Tool</mark>- DAS, Tableau, Power BI
 
 # Footer
 footer_show_references: true
