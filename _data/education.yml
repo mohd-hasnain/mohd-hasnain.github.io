@@ -8,12 +8,12 @@
   description: | # this will include new lines to allow paragraphs
     Currently pursuing this MBA
     
-  name: Aligarh Muslim University(AMU), India
-  dates: 2005 - 2009
-  qualification: Bachelor of Technology(BTech)
-  quote: >
-    Electronics Engineering
-  description: | # this will include new lines to allow paragraphs
+  name1: Aligarh Muslim University(AMU), India
+  dates1: 2005 - 2009
+  qualification1: Bachelor of Technology(BTech)
+  quote1: >
+    Electronics and Communication Engineering
+  description1: | # this will include new lines to allow paragraphs
     **Internships**
       - IIT, Roorkee on VHDL - 2007
       - RDSO, Lucknow on Robotics in Railway - 2008
