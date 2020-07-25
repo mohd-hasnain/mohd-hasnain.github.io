@@ -19,7 +19,7 @@
   description: | # this will include new lines to allow paragraphs
     Implemented Big Data Framework, Solutions and Algorithms with **Spark/Hadoop** and related technologies for next generation credit risk capabilities.
     
-    Developed and designed automated process to ingest Semi-structured data such as XML, JSON, unstructured bank transaction logs and binary indexed mainframe file into HBase, Hive and Cassandra
+    Developed and designed automated process to ingest Semi-structured data such as XML, JSON, unstructured bank transaction logs and binary indexed mainframe file into **HBase**, **Hive** and **Cassandra**.
 
 - company:   Tata Consultancy Services TCS, India
   link: https://www.tcs.com/
@@ -37,5 +37,6 @@
     Being Key Subject Matter Expert (**SME**) for Pricing and Forecasting Applications was responsible to apply business rules and pricing strategies to recommend best price, plan/execution for Holiday sales and create various sales forecasting reports.
     
     Installation of multi node Hadoop cluster, patches, updates and version upgrades.
+    Hadoop Cluster monitoring and troubleshooting using Nagios, Ganglia, White Elephant.
     
     Responsible for database administration, performance tuning and sizing for non-production environment DB2 databases for Supply Chain Management (SCM) domain.
