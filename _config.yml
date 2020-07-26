@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   Some of my other interests are:
     - **Marathon Runner**
     - **Mentor** - Awarded as **Azure Hero** by Microsoft
-    - Awarded as [Star of the Year](assets/hasnain.jpg) as recognition for the Data Lake success
+    - Awarded as [Star of the Year](assets/award.jpg) as recognition for the Data Lake success
     - Awarded as [Star of the Quarter](https://voidio.blogspot.com/) for reducing business impact by 25%
     - Business trip to USA in 2019, have valid B1 visa
 
@@ -68,7 +68,7 @@ projects_title: Certifications #(Use this to override about projects section tit
 # More Section
 more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-    <mark>Azure Cloud</mark> Storage, VM, Vnet, NSG, Gateway, AD, HDInsights, Databricks, AAS, Synapse, Data Lake, ADF, Logic App, ADC, IoT Hub, Event Hub, Event Grid, Stream Analytics, 
+    <mark>Azure Cloud</mark> Storage, VM, Vnet, NSG, Gateway, AD, HDInsights, Databricks, AAS, Synapse, ADF, Logic App, ADC, IoT Hub, Event Hub, Event Grid, ASA 
 
     <mark>Big Data Technologies</mark> Spark, MapReduce, Flume, Kafka, Storm, Pig Latin, Cascading, Sqoop, Hue, Tez, Impala, Drill, Hive, Beeline, Hcatalog
     
