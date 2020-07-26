@@ -43,7 +43,7 @@ about_content: | # this will include new lines to allow paragraphs
   It inclined towards improvising current architectures and using skills to use a mixture of various technologies to provide best and 
   optimized solutions which will provide efficient ways to manage, handle and reuse the data to generate more and more profit for organizations.
   
-  Areas of Expertise:
+  Areas of Expertise
     - **Platform Administration** – Hadoop, Linux, Talend and Azure
     - **Security** - Hadoop and Azure Cloud
     - **Big Data** ecosystem setup and integration
@@ -51,9 +51,10 @@ about_content: | # this will include new lines to allow paragraphs
     - **Real Time** Data Solution – Lambda and Delta Architecture
     - **Azure DevOps** – Infrastructure and Configuration Management
     
-  Interests and relected recent Accomplishments:
+  Interests and relected recent Accomplishments
+    - **Blogger** - Follow my Technical Blogs at [voidio](https://voidio.blogspot.com/) 
     - **Marathon Runner**
-    - **Mentor** - Awarded as **Azure Hero** by Microsoft
+    - **Mentor** - Awarded as [**'Azure Hero'**](https://enjinx.io/eth/asset/63151533) by Microsoft
     - PPG Awarded as [Star of the Year](assets/award.jpg) as recognition for the Data Lake projects success
     - TCS Awarded as **'Star of the Quarter'** for reducing business impact by 25%
     - TCS Awarded multiple times as **‘On the Spot Award’** for process automation
