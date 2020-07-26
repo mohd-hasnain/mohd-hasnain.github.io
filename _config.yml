@@ -72,7 +72,7 @@ more_content: | # this will include new lines to allow paragraphs
 
     <mark>Big Data Technologies</mark> Spark, MapReduce, Flume, Kafka, Storm, Pig Latin, Cascading, Sqoop, Hue, Tez, Impala, Drill, Hive, Beeline, Hcatalog
     
-    <mark>File System</mark> HDFS, DBFS, ADLS(Gen1 and Gen2), S3, BLOB, SMB file sharing, Sequence files, RCFile, HAR, blob, Avro, Parquet, ORC, Delta
+    <mark>File System</mark> HDFS, DBFS, ADLS(gen1 & gen2), S3, BLOB, SMB file sharing, Sequence files, RCFile, HAR, blob, Avro, Parquet, ORC, Delta
 
     <mark>Distribution</mark> Cloudera, Hortonworks, MapR, Apache Hadoop, Databricks
     
