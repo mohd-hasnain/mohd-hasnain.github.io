@@ -52,8 +52,8 @@ about_content: | # this will include new lines to allow paragraphs
   Some of my other interests are:
     - **Marathon Runner**
     - **Mentor** - Awarded as **Azure Hero** by Microsoft
-    - Awarded as [Star of the Year](https://voidio.blogspot.com/) as recognition for the Data Lake success
-    - Awarded as **Star of the Quarter** for reducing business impact by 25%
+    - Awarded as [Star of the Year](assets/hasnain.jpg) as recognition for the Data Lake success
+    - Awarded as [Star of the Quarter](https://voidio.blogspot.com/) for reducing business impact by 25%
     - Business trip to USA in 2019, have valid B1 visa
 
 # Projects Section
@@ -69,19 +69,27 @@ projects_title: Certifications #(Use this to override about projects section tit
 more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
     
-    <mark>Big Data Technologies</mark> Spark, MapReduce, Flume, Kafka, Storm, Pig, Sqoop, Hue, Tez, Hive, Hcatalog, Azure HDInsight
+    •	Azure Cloud – HDInsights/ Databricks/ Azure Analysis Services(AAS)/ Azure Data Factory(ADF)/ Azure Data Catalog(ADC)/ ADLS/ Azure storage account, BLOB/ Ubuntu, Redhat, Windows VM
+•	Talend Studio Big Data Integration 6.3.1 and 7.1/ Talend Administration Center(TAC)
+•	DevOps – Visual Studio Team Services(VSTS)/ GitHub/ Jenkins/ Maven/ Nexus
+ Kerberos / Hbase / OpenTSDB / Cassandra/ AWS
+•
+•	Tools:	S, 
+
+    
+    <mark>Big Data Technologies</mark> Spark, MapReduce, Flume, Kafka, Storm, Pig Latin, Sqoop, Hue, Tez, Hive, Hcatalog, Azure HDInsight
+    
+    <mark>File System</mark> HDFS, DBFS, ADLS, S3, BLOB, SMB file sharing, Sequence files, RCFile, HAR, blob, Avro, Parquet, ORC, Delta
     
     <mark>Languages</mark> Python, Scala, Java, SQL, Shell Scripting
 
-    <mark>File System</mark> HDFS, DBFS, ADLS, S3, BLOB, SMB file sharing, Sequence files, RCFile, HAR, blob, Avro, Parquet, ORC, Delta
-
-    <mark>Distribution</mark> Cloudera, Hortonworks, MapR, Databricks
+    <mark>Distribution</mark> Cloudera, Hortonworks, MapR, Apache Hadoop, Databricks
 
     <mark>Workflow Engines</mark> Oozie, Azkban, Luigi, Airflow, Tivoli, Control-M
 
     <mark>DevOps</mark> Azure DevOps, Git, SVN, TFS, Jenkins, Maven, Nexus
 
-    <mark>RDBMS</mark> MySQL, DB2, Teradata, SQL server, Azure SQL, Azure Synapse
+    <mark>RDBMS</mark> MySQL, DB2, Teradata, SQL server, Oracle DB, Azure SQL, Azure Synapse
     
     <mark>Orchestration</mark> Talend, Azure Data Factory, Azure Logic Apps
 
@@ -93,7 +101,7 @@ more_content: | # this will include new lines to allow paragraphs
 
     <mark>Cluster Manager</mark> Zookeeper, Mesos, YARN, Ambari, Cloudera Manager
 
-    <mark>BI Tool</mark> DAS, Tableau, Power BI
+    <mark>BI and other Tool</mark> DAS, Tableau, Power BI, SQL Server Management Studio (SSMS), DAX Studio, Visual Studio IDE, Eclipse IDE
 
 # Footer
 footer_show_references: true
