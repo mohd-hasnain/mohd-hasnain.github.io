@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Mohd Hasnain
 title: Cloud Solution Architect – Data & AI
 email: mohd-hasnain@outlook.com
-phone: +60 - 16 638 5810 
+#phone: +60 - 16 638 5810 
 
 # Dark Mode (true/false/never)
 darkmode: false
