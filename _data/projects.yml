@@ -1,8 +1,7 @@
 # Project template
 - layout: top-middle
   description: | # this will include new lines to allow paragraphs
-      <mark>Microsoft Azure Certified</mark>  
-      [Solutions Architect Expert](assets/main/Microsoft_Certified_Professional_Certificate_1.pdf), 
+      <mark>Microsoft Azure Certified</mark> [Solutions Architect Expert](assets/main/Microsoft_Certified_Professional_Certificate_1.pdf), 
       [DevOps Engineer Expert](assets/main/Microsoft_Certified_Professional_Certificate_0.pdf),
       [Security Engineer](assets/main/Microsoft_Certified_Professional_Certificate_3.pdf), 
       [Administrator Associate](assets/main/Microsoft_Certified_Professional_Certificate_4.pdf), 
