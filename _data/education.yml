@@ -5,7 +5,7 @@
   #quote: >
   # ARU is one of the top 350 universities in the world (Times Higher Education World University Rankings).
   description: | # this will include new lines to allow paragraphs
-   ARU is one of the top 350 universities in the world (Times Higher Education World University Rankings).
+   ARU is one of the **top 350** universities in the world (Times Higher Education World University Rankings).
    
    Currently pursuing this MBA.
    
@@ -17,7 +17,7 @@
   #quote: >
   #  AMU is one of the top 5 central universities in India, Ranked 'A' by UGC accreditation team.
   description: | # this will include new lines to allow paragraphs
-    ARU is one of the top 350 universities in the world (Times Higher Education World University Rankings).
+    AMU is one of the **top 5** central universities in India, Ranked 'A' by UGC accreditation team.
     
     **Internships** IIT Roorkee on VLSI design using VHDL. RDSO Lucknow on Robotics in Indian Railway.
     
