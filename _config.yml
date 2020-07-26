@@ -34,10 +34,12 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/mohd.png
 about_content: | # this will include new lines to allow paragraphs
-  Over 10 years of profound experience as **Cloud Solution Architect** for all types of **Data** (Big, Small, Fast, whatever) and **Advanced Analytics** to drive high priority business initiatives on the Microsoft Azure, Cloudera/ Hortonworks and Databricks Platform.
+  Over 10 years of profound experience as **Cloud Solution Architect** for all types of **Data** (Big, Small, Fast, whatever) and **Advanced Analytics** 
+  to drive high priority business initiatives on the Microsoft Azure, Cloudera/ Hortonworks and Databricks Platform.
   
-  I am highly skilled in <mark>Azure Cloud</mark> and <mark>Big Data</mark> Frameworks, Solutions and Algorithms with Spark/Hadoop and related technologies.
-  Started my career with information and data management as **Database Administrator**. It helps me to understand the value and importance of data for any organization.
+  I am highly skilled in <mark>Azure Cloud</mark> and <mark>Big Data</mark> related technologies.
+  Started my career with information and data management as **Database Administrator**. 
+  It helps me to understand the value and importance of data for any organization.
   It inclined towards improvising current architectures and using skills to use a mixture of various technologies to provide best and 
   optimized solutions which will provide efficient ways to manage, handle and reuse the data to generate more and more profit for organizations.
   
@@ -69,7 +71,8 @@ projects_title: Certifications #(Use this to override about projects section tit
 # More Section
 more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-    <mark>Azure Cloud</mark> Storage, VM, Vnet, NSG, Gateway, AD, HDInsights, Databricks, AAS, Synapse, ADF, Function, Logic App, ADC, IoT Hub, Event Hub, Event Grid, ASA 
+    <mark>Azure Cloud</mark> Storage, VM, Vnet, NSG, Gateway, AD, HDInsights, Databricks, AAS, Synapse, ADF, Function, Logic App, ADC, IoT Hub, Event Hub, 
+    Event Grid, ASA 
 
     <mark>Big Data Technologies</mark> Spark, MapReduce, Flume, Kafka, Storm, Pig Latin, Cascading, Sqoop, Hue, Tez, Impala, Drill, Hive, Beeline, Hcatalog
     
