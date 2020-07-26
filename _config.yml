@@ -69,7 +69,7 @@ projects_title: Certifications #(Use this to override about projects section tit
 # More Section
 more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-    <mark>Azure Cloud</mark> Storage, VM, Vnet, NSG, Gateway, AD, HDInsights, Databricks, AAS, Synapse, ADF, Logic App, ADC, IoT Hub, Event Hub, Event Grid, ASA 
+    <mark>Azure Cloud</mark> Storage, VM, Vnet, NSG, Gateway, AD, HDInsights, Databricks, AAS, Synapse, ADF, Function, Logic App, ADC, IoT Hub, Event Hub, Event Grid, ASA 
 
     <mark>Big Data Technologies</mark> Spark, MapReduce, Flume, Kafka, Storm, Pig Latin, Cascading, Sqoop, Hue, Tez, Impala, Drill, Hive, Beeline, Hcatalog
     
