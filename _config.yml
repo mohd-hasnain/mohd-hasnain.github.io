@@ -46,7 +46,7 @@ about_content: | # this will include new lines to allow paragraphs
     - **Platform Administration** – Hadoop, Linux, Talend and Azure
     - **Security** - Hadoop and Azure Cloud
     - **Big Data** ecosystem setup and integration
-    - Scalable **Ingestion** Pipelines – EDW, Modern DW and ETL
+    - Scalable **Data Ingestion** Pipelines – EDW, Modern DW and ETL
     - **Real Time** Data Solution – Lambda and Delta Architecture
     - **Azure DevOps** – Infrastructure and Configuration Management
     
