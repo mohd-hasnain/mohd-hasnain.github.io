@@ -32,7 +32,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: assets/mohd.jpg
+about_profile_image: assets/mohd.png
 about_content: | # this will include new lines to allow paragraphs
   Over 10 years of profound experience as **Cloud Solution Architect** for all types of **Data** (Big, Small, Fast, whatever) and **Advanced Analytics** to drive high priority business initiatives on the Microsoft Azure, Cloudera/ Hortonworks and Databricks Platform.
   
@@ -49,11 +49,12 @@ about_content: | # this will include new lines to allow paragraphs
     - **Real Time** Data Solution – Lambda and Delta Architecture
     - **Azure DevOps** – Infrastructure and Configuration Management
     
-  Interests and others:
+  Interests and Selected Recent Accomplishments:
     - **Marathon Runner**
     - **Mentor** - Awarded as **Azure Hero** by Microsoft
-    - Awarded as [Star of the Year](assets/award.jpg) as recognition for the Data Lake success
-    - Awarded as [Star of the Quarter](https://voidio.blogspot.com/) for reducing business impact by 25%
+    - PPG Awarded as [Star of the Year](assets/award.jpg) as recognition for the Data Lake projects success
+    - TCS Awarded as **'Star of the Quarter'** for reducing business impact by 25%
+    - TCS Awarded multiple times as **‘On the Spot Award’** for process automation
     - Business trip to USA in 2019, have valid B1 visa
 
 # Projects Section
