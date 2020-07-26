@@ -9,7 +9,7 @@ email: mohd-hasnain@outlook.com
 #phone: +60 - 16 638 5810 
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 linkedin_username: mohdhasnain
