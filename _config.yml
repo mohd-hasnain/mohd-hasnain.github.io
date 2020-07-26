@@ -34,16 +34,12 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/hasnain.jpg
 about_content: | # this will include new lines to allow paragraphs
-   Over 10 years of profound experience as **Cloud Solution Architect** for all types of **Data** (Big, Small, Fast, whatever) 
-  and **Advanced Analytics** to drive high priority business initiatives on the Microsoft Azure, Cloudera/ Hortonworks and Databricks Platform.
+  Over 10 years of profound experience as **Cloud Solution Architect** for all types of **Data** (Big, Small, Fast, whatever) and **Advanced Analytics** to drive high priority business initiatives on the Microsoft Azure, Cloudera/ Hortonworks and Databricks Platform.
   
   I am highly skilled in: <mark>Azure Cloud</mark> and <mark>Big Data</mark> Frameworks, Solutions and Algorithms with Spark/Hadoop and related technologies.
   
-    Started my career with information and data management as Database Administrator.
-  It helps me to understand the value and importance of data for any organization.
-  It inclined towards improvising current architectures and using skills to use a mixture of various technologies 
-  to provide best and optimized solutions which will provide efficient ways to manage, handle and reuse the 
-  data to generate more and more profit for organizations
+  Started my career with information and data management as **Database Administrator**. It helps me to understand the value and importance of data for any organization.
+  It inclined towards improvising current architectures and using skills to use a mixture of various technologies to provide best and optimized solutions which will provide efficient ways to manage, handle and reuse the data to generate more and more profit for organizations
   
   My Specialties:
     - Platform Administration – Hadoop, Linux, Talend and Azure
@@ -54,13 +50,12 @@ about_content: | # this will include new lines to allow paragraphs
     - Azure DevOps – Infrastructure and Configuration Management
     
   Some of my other interests are:
-  
     - **Marathon Runner**
     - **Mentor** - Awarded as **Azure Hero** by Microsoft
     
   Selected recent Accomplishments:
     - Awarded as **Star of the Year** as recognition for the Data Lake success
-    - Awarded as ‘Star of the Quarter’ for reducing business impact by 25%
+    - Awarded as **Star of the Quarter** for reducing business impact by 25%
     - Business trip to USA in 2019, have valid B1 visa
 
 # Projects Section
