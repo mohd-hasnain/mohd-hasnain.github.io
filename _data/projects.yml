@@ -2,9 +2,15 @@
 - layout: top-middle
   description: | # this will include new lines to allow paragraphs
       <mark>PPG Certified</mark>  Lean Six Sigma Green Belt
+      
       <mark>Microsoft Certified</mark>  Azure Solutions Architect Expert, Azure DevOps Engineer Expert, Azure Security Engineer, Azure Administrator, Azure Developer Associate, Azure Fundamentals
+      
       <mark>MapR Certified</mark> Hadoop Developer
+      
       <mark>ITIL v3 Certified</mark> IT Service Management
+      
       <mark>TCS Certified</mark>Retail Management (by TCS business domain academy), Lean Six Sigma Green Belt
+      
       <mark>Teradata Certified</mark> Database Associate
+      
       <mark>IBM Certified</mark> DB2 Database Associate, Application Developer, Database Administrator DBA
