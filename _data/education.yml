@@ -2,24 +2,27 @@
 - name: Anglia Ruskin University (ARU), UK
   dates: 2020 - 2021
   qualification: MBA (Business Analytics)
-  quote: >
-   ARU is one of the top 350 universities in the world (Times Higher Education World University Rankings).
+  #quote: >
+  # ARU is one of the top 350 universities in the world (Times Higher Education World University Rankings).
   description: | # this will include new lines to allow paragraphs
+   ARU is one of the top 350 universities in the world (Times Higher Education World University Rankings).
+   
    Currently pursuing this MBA.
    
    Research Proposal for Business and Management: The Impact of **Dynamic Pricing** and **Dynamic Bundling** on **Customer Lifetime Value**(CLV) in Online Retail Sector.
 
-
 - name: Aligarh University (AMU), India
   dates: 2005 - 2009
   qualification: BTech (Electronics Engineering)
-  quote: >
-    AMU is one of the top 5 central universities in India, Ranked 'A' by UGC accreditation team.
+  #quote: >
+  #  AMU is one of the top 5 central universities in India, Ranked 'A' by UGC accreditation team.
   description: | # this will include new lines to allow paragraphs
-    **Internships** : IIT Roorkee on VLSI design using VHDL. RDSO Lucknow on Robotics in Indian Railway.
+    ARU is one of the top 350 universities in the world (Times Higher Education World University Rankings).
     
-    **Final Year Project** : Design of Line Following Robot Using IR Sensors in Embedded C
+    **Internships** IIT Roorkee on VLSI design using VHDL. RDSO Lucknow on Robotics in Indian Railway.
     
-    **Papers Presented** :
+    **Final Year Project** Design of Line Following Robot Using IR Sensors in Embedded C
+    
+    **Papers Presented**
       - Winner of Tekesis a national level paper presentation contest at AMU
       - Won 2nd prize in national level presentation contest at RTU, Kota
