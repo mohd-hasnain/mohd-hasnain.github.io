@@ -44,20 +44,18 @@ about_content: | # this will include new lines to allow paragraphs
   optimized solutions which will provide efficient ways to manage, handle and reuse the data to generate more and more profit for organizations.
   
   Areas of Expertise
-    - **Platform Administration** – Hadoop, Linux, Talend and Azure
-    - **Security** - Hadoop and Azure Cloud
+    - **Platform Administration and Security** – Hadoop, Linux, Talend and Azure Cloud
     - **Big Data** ecosystem setup and integration
     - Scalable **Data Ingestion** Pipelines – EDW, Modern DW and ETL
     - **Real Time** Data Solution – Lambda and Delta Architecture
     - **Azure DevOps** – Infrastructure and Configuration Management
     
-  Interests and relected recent Accomplishments
+  Recent Activities and Interests
     - **Blogger** - Follow my Technical Blogs at [**VoidIo**](https://voidio.blogspot.com/)
     - **Mentor** - Awarded as [**'Azure Hero'**](https://enjinx.io/eth/asset/63151533) by Microsoft
     - **Marathon Runner**
     - PPG Awarded as [**'Star of the Year'**](assets/award.jpg) as recognition for the Data Lake projects success
-    - TCS Awarded as **'Star of the Quarter'** for reducing business impact by 25%
-    - TCS Awarded multiple times as **‘On the Spot Award’** for process automation
+    - TCS Awarded as **'Star of the Quarter'** for process automation
 
 # Projects Section
 projects_title: Certifications #(Use this to override about projects section title)
@@ -73,7 +71,7 @@ more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
     <mark>Big Data Technologies</mark> Spark, MapReduce, Flume, Kafka, Storm, Pig Latin, Cascading, Oozie, Sqoop, Hue, Tez, Impala, Drill, Hive, Beeline, Hcatalog
     
-    <mark>File System</mark> HDFS, DBFS, ADLS, S3, BLOB, SMB file sharing, Sequence files, RCFile, HAR, blob, Avro, Parquet, ORC, Delta
+    <mark>File System</mark> HDFS, DBFS, ADLS, S3, blob, Sequence files, RCFile, HAR, Avro, Parquet, ORC, Delta
 
     <mark>Distribution</mark> Cloudera, Hortonworks, MapR, Apache Hadoop, Databricks
     
