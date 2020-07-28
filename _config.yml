@@ -34,10 +34,11 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/mohd.png
 about_content: | # this will include new lines to allow paragraphs
-  Over 10 years of profound experience as **Cloud Solution Architect** for all types of **Data** (Big, Small, Fast, whatever) and **Advanced Analytics** 
-  to drive high priority business initiatives on the Microsoft Azure, Cloudera/ Hortonworks and Databricks Platform.
+  Over 10 years of profound experience as <mark>Cloud Solution Architect</mark> for all types of **Data** (Big, Small, Fast, whatever) and **Advanced Analytics** 
+  to drive high priority business initiatives on the Microsoft Azure, Cloudera, Hortonworks and Databricks Platform.
   
   I am highly skilled in <mark>Azure Cloud</mark> and <mark>Big Data</mark> related technologies.
+  
   Started my career with information and data management as **Database Administrator**. 
   It helps me to understand the value and importance of data for any organization.
   It inclined towards improvising current architectures and using skills to use a mixture of various technologies to provide best and 
@@ -46,14 +47,14 @@ about_content: | # this will include new lines to allow paragraphs
   Areas of Expertise
     - **Platform Administration and Security** – Hadoop, Linux, Talend and Azure Cloud
     - **Big Data** ecosystem setup and integration
-    - Scalable **Data Ingestion** Pipelines – EDW, Modern DW and ETL
+    - **Scalable Data Ingestion** Pipelines – EDW, Modern DW and ETL
     - **Real Time** Data Solution – Lambda and Delta Architecture
     - **Azure DevOps** – Infrastructure and Configuration Management
     
   Recent Activities and Interests
+    - **Marathon Runner**
     - **Blogger** - Follow my Technical Blogs at [**VoidIo**](https://voidio.blogspot.com/)
     - **Mentor** - Awarded as [**'Azure Hero'**](https://enjinx.io/eth/asset/63151533) by Microsoft
-    - **Marathon Runner**
     - PPG Awarded as [**'Star of the Year'**](assets/award.jpg) as recognition for the Data Lake projects success
     - TCS Awarded as **'Star of the Quarter'** for process automation
 
