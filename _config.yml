@@ -71,34 +71,25 @@ projects_title: Certifications #(Use this to override about projects section tit
 # More Section
 more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-    <mark>Azure Cloud</mark> Storage, VM, Vnet, NSG, Gateway, AD, HDInsights, Databricks, AAS, Synapse, ADF, Function, Logic App, ADC, IoT Hub, Event Hub, 
-    Event Grid, ASA 
-
-    <mark>Big Data Technologies</mark> Spark, MapReduce, Flume, Kafka, Storm, Pig Latin, Cascading, Sqoop, Hue, Tez, Impala, Drill, Hive, Beeline, Hcatalog
+    <mark>Big Data Technologies</mark> Spark, MapReduce, Flume, Kafka, Storm, Pig Latin, Cascading, Oozie, Sqoop, Hue, Tez, Impala, Drill, Hive, Beeline, Hcatalog
     
-    <mark>File System</mark> HDFS, DBFS, ADLS(gen1 & gen2), S3, BLOB, SMB file sharing, Sequence files, RCFile, HAR, blob, Avro, Parquet, ORC, Delta
+    <mark>File System</mark> HDFS, DBFS, ADLS, S3, BLOB, SMB file sharing, Sequence files, RCFile, HAR, blob, Avro, Parquet, ORC, Delta
 
     <mark>Distribution</mark> Cloudera, Hortonworks, MapR, Apache Hadoop, Databricks
     
     <mark>Languages</mark> Python, Scala, Java, SQL, Shell Scripting
 
-    <mark>Workflow Engines</mark> Oozie, Azkban, Luigi, Airflow, Tivoli, Control-M
-
     <mark>DevOps</mark> Azure DevOps, GitHub, SVN, TFS, Jenkins, Maven, Nexus
 
-    <mark>RDBMS</mark> MySQL, DB2, Teradata, SQL server, Oracle DB, Azure SQL, Azure Synapse
+    <mark>RDBMS</mark> MySQL, DB2, Teradata, SQL server
     
-    <mark>Orchestration</mark> Talend, Azure Data Factory, Azure Logic Apps
-
     <mark>NoSQL</mark> OpenTSDB, Hbase, Cassandra, Cosmos DB
 
-    <mark>Security</mark> Kerberos, Ranger, Sentry, TDE, AD/LDAP, ACL, Azure Key Vault, Talend Administration Center(TAC)
+    <mark>Security</mark> Kerberos, Ranger, Sentry, TDE, AD/LDAP, ACL
 
     <mark>Monitoring</mark> Nagios, Ganglia, White Elephant, PRTG, DataDog
 
     <mark>Cluster Manager</mark> Zookeeper, Mesos, YARN, Ambari, Cloudera Manager
-
-    <mark>BI and other Tool</mark> DAS, Tableau, Power BI, SQL Server Management Studio (SSMS), DAX Studio, Talend Studio, Visual Studio IDE, Eclipse IDE
 
 # Footer
 footer_show_references: true
