@@ -1,6 +1,6 @@
 # Experience template
 - company:  PPG Industries, Kuala Lumpur, Malaysia
-  link: https://ppg.com/
+  #link: https://ppg.com/
   job_title: Cloud Solution Architect, Expert
   dates: Feb 2018 - present
   #quote: >
@@ -8,24 +8,19 @@
   description: | # this will include new lines to allow paragraphs
     - Provide an overall architect responsibility including roadmaps, leadership, planning, technical innovation, security, 
     IT governance, performance benchmarking and reports.
-    
-    - Produce artifacts in support of reference architecture advocacy and implementation, including authoring documentation, 
-    white papers, and presentations/diagrams for dissemination to technical and business audiences.
 
 - company:  Cognizant Technology Solutions CTS, India
-  link: https://www.cognizant.com/
+  #link: https://www.cognizant.com/
   job_title: Big Data Architect
   dates: Mar 2016 - Jan 2018
   #quote: >
   # A global supplier of paints, coatings, and specialty materials.
   description: | # this will include new lines to allow paragraphs
-    - Implemented Big Data Framework, Solutions and Algorithms with **Spark/Hadoop** and related technologies for next generation credit risk capabilities.
-    
-    - Developed and designed automated process to ingest **Semi-structured** data such as XML, JSON, unstructured bank transaction logs and binary 
-    indexed mainframe file into **HBase**, **Hive** and **Cassandra**.
+    - Implemented Big Data Framework, Solutions and Algorithms with **Spark**, **Hadoop** and related technologies for next generation credit risk capabilities.
+
 
 - company:   Tata Consultancy Services TCS, India
-  link: https://www.tcs.com/
+  #link: https://www.tcs.com/
   jobs:
     - title: Hadoop Administrator 
       dates: Mar 2014 - Feb 2016
@@ -37,11 +32,10 @@
   # A global supplier of paints, coatings, and specialty materials.
   description: | # this will include new lines to allow paragraphs
     
-    - **Installation** and **configuration** of multi node Hadoop cluster including patches, updates, version upgrades etc. 
-    Conduct performance tuning, capacity planning, monitoring and troubleshooting using Nagios, Ganglia, White Elephant.
+    - **Installation** and **configuration** of multi node Hadoop cluster including patches, updates, version upgrades etc.
     
-    - Being Key **Subject Matter Expert**(SME) for Pricing and Forecasting Applications was responsible to apply business rules and pricing strategies 
+    - Being Key **Subject Matter Expert** (SME) for Pricing and Forecasting Applications was responsible to apply business rules and pricing strategies 
     to recommend best price, plan/execution for Holiday sales and create various sales forecasting reports.
     
     - Responsible for database administration, performance tuning and sizing for non-production environment DB2 databases for 
-    **Supply Chain Management**(SCM) domain.
+    **Supply Chain Management** (SCM) domain.
