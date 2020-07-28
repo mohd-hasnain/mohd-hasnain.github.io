@@ -5,11 +5,11 @@
   #quote: >
   # ARU is one of the top 350 universities in the world (Times Higher Education World University Rankings).
   description: | # this will include new lines to allow paragraphs
-   ARU is one of the **top 350** universities in the world (Times Higher Education World University Rankings).
+   ARU is one of the **top 350** universities in the world (Times, 2020).
    
    Currently pursuing this MBA.
    
-   Research Proposal: The Impact of **Dynamic Pricing** and **Dynamic Bundling** on **Customer Lifetime Value**(CLV) in Online Retail Sector.
+   Research Proposal: The Impact of **Dynamic Pricing** and **Dynamic Bundling** on **Customer Lifetime Value** (CLV) in E-commerce.
 
 - name: Aligarh University AMU, India
   dates: 2005 - 2009
@@ -19,10 +19,8 @@
   description: | # this will include new lines to allow paragraphs
     AMU is one of the **top 5** central universities in India, Ranked 'A' by UGC accreditation team.
     
-    **Internships** - IIT Roorkee on VLSI design using VHDL. RDSO Lucknow on Robotics in Indian Railway.
+    Activities
     
-    **Final Year Project** - Design of Line Following Robot Using IR Sensors in Embedded C
-    
-    **Papers Presented**
+      - **Internships** - IIT Roorkee on VLSI design using VHDL. RDSO Lucknow on robotics in Indian railway.
       - Winner of Tekesis a national level paper presentation contest at AMU
       - Won 2nd prize in national level presentation contest at RTU, Kota
