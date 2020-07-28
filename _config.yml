@@ -76,9 +76,9 @@ more_content: | # this will include new lines to allow paragraphs
 
     <mark>Distribution</mark> Cloudera, Hortonworks, MapR, Apache Hadoop, Databricks
     
+    <mark>DevOps</mark> Azure DevOps, GitHub, Ansible, TFS, Jenkins, Maven, Nexus    
+    
     <mark>Languages</mark> Python, Scala, Java, SQL, Shell Scripting
-
-    <mark>DevOps</mark> Azure DevOps, GitHub, Ansible, TFS, Jenkins, Maven, Nexus
 
     <mark>RDBMS</mark> MySQL, DB2, Teradata, SQL server
     
