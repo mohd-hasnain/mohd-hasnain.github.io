@@ -46,8 +46,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   Areas of Expertise
     - **Platform Administration** and **Security** – Hadoop, Linux, Talend and Azure Cloud
-    - **Big Data** ecosystem setup and integration
     - **Scalable Data Ingestion** Pipelines – EDW, Modern DW and ETL
+    - **Big Data** ecosystem setup and integration
     - **Real Time** Data Solution
     - **Azure DevOps**
     
