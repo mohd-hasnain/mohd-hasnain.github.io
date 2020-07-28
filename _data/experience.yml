@@ -6,8 +6,7 @@
   #quote: >
   # A global supplier of paints, coatings, and specialty materials.
   description: | # this will include new lines to allow paragraphs
-    - Provide an overall architect responsibility including roadmaps, leadership, planning, technical innovation, security, 
-    IT governance, performance benchmarking and reports.
+    - Provide an overall architect responsibility including roadmaps, leadership, planning, technical innovation, security, governance, performance benchmarking and reports.
 
 - company:  Cognizant Technology Solutions CTS, India
   #link: https://www.cognizant.com/
@@ -34,7 +33,6 @@
     
     - **Installation** and **configuration** of multi node Hadoop cluster including patches, updates, version upgrades etc.
     
-    - Being **Key SME** for Pricing and Forecasting applications was responsible to recommend best price, 
-    plan/execution for holiday sales and create various sales forecasting reports.
+    - Being **Key SME** for Pricing and Forecasting applications was responsible to recommend best price, plan/execution for holiday sales and create various sales forecasting reports.
     
     - Responsible for DB2 database administration, performance tuning and sizing for SCM domain.
