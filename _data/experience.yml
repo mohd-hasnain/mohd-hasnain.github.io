@@ -6,9 +6,11 @@
   #quote: >
   # A global supplier of paints, coatings, and specialty materials.
   description: | # this will include new lines to allow paragraphs
-    - Provide an overall architect responsibility including roadmaps, leadership, planning, technical innovation, security, IT governance, performance benchmarking and reports.
+    - Provide an overall architect responsibility including roadmaps, leadership, planning, technical innovation, security, 
+    IT governance, performance benchmarking and reports.
     
-    - Produce artifacts in support of reference architecture advocacy and implementation, including authoring documentation, white papers, and presentations/diagrams for dissemination to technical and business audiences
+    - Produce artifacts in support of reference architecture advocacy and implementation, including authoring documentation, 
+    white papers, and presentations/diagrams for dissemination to technical and business audiences.
 
 - company:  Cognizant Technology Solutions CTS, India
   link: https://www.cognizant.com/
@@ -19,7 +21,8 @@
   description: | # this will include new lines to allow paragraphs
     - Implemented Big Data Framework, Solutions and Algorithms with **Spark/Hadoop** and related technologies for next generation credit risk capabilities.
     
-    - Developed and designed automated process to ingest **Semi-structured** data such as XML, JSON, unstructured bank transaction logs and binary indexed mainframe file into **HBase**, **Hive** and **Cassandra**.
+    - Developed and designed automated process to ingest **Semi-structured** data such as XML, JSON, unstructured bank transaction logs and binary 
+    indexed mainframe file into **HBase**, **Hive** and **Cassandra**.
 
 - company:   Tata Consultancy Services TCS, India
   link: https://www.tcs.com/
