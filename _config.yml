@@ -78,7 +78,7 @@ more_content: | # this will include new lines to allow paragraphs
     
     <mark>Languages</mark> Python, Scala, Java, SQL, Shell Scripting
 
-    <mark>DevOps</mark> Azure DevOps, GitHub, SVN, TFS, Jenkins, Maven, Nexus
+    <mark>DevOps</mark> Azure DevOps, GitHub, Ansible, TFS, Jenkins, Maven, Nexus
 
     <mark>RDBMS</mark> MySQL, DB2, Teradata, SQL server
     
