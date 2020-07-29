@@ -55,8 +55,8 @@ about_content: | # this will include new lines to allow paragraphs
     - **Marathon Runner**
     - **Blogger** - Follow my Technical Blogs at [**VoidIo**](https://voidio.blogspot.com/)
     - **Mentor** - Awarded as [**'Azure Hero'**](https://enjinx.io/eth/asset/63151533) by Microsoft
-    - PPG Awarded as [**'Star of the Year'**](assets/award.jpg) as recognition for the Data Lake projects success
-    - TCS Awarded as **'Star of the Quarter'** for process automation
+    - PPG Awarded as [**Star of the Year**](assets/award.jpg) as recognition for the Data Lake projects success
+    - TCS Awarded as **Star of the Quarter** for process automation
 
 # Projects Section
 projects_title: Certifications #(Use this to override about projects section title)
