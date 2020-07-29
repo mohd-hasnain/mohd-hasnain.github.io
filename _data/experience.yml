@@ -8,7 +8,7 @@
   description: | # this will include new lines to allow paragraphs
     - Provide an overall architect responsibility including roadmaps, leadership, planning, technical innovation, security, governance, performance benchmarking and reports.
 
-- company:  Cognizant Technology Solutions CTS, India
+- company:  Cognizant, India
   #link: https://www.cognizant.com/
   job_title: Big Data Architect
   dates: Mar 2016 - Jan 2018
@@ -18,7 +18,7 @@
     - Implemented Big Data Framework, Solutions and Algorithms with **Spark**, **Hadoop** and related technologies for next generation credit risk capabilities.
 
 
-- company:   Tata Consultancy Services TCS, India
+- company:   Tata Consultancy Services, India
   #link: https://www.tcs.com/
   jobs:
     - title: Hadoop Administrator 
