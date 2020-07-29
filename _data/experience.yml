@@ -6,7 +6,7 @@
   #quote: >
   # A global supplier of paints, coatings, and specialty materials.
   description: | # this will include new lines to allow paragraphs
-    - Provide an overall architect responsibility including roadmaps, leadership, planning, technical innovation, security, governance, performance benchmarking and reports.
+    - Provide an overall architect responsibility for **data**/**delta lake** projects including roadmaps, leadership, planning, technical innovation, security, governance, performance benchmarking and reports.
 
 - company:  Cognizant, India
   #link: https://www.cognizant.com/
