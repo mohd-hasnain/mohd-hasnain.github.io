@@ -25,7 +25,7 @@
       dates: Mar 2014 - Feb 2016
     - title: Hadoop Technical Lead
       dates: Mar 2012 - Feb 2014
-    - title: DBA
+    - title: Database Administrator
       dates: Feb 2010 - Feb 2012
   #quote: >
   # A global supplier of paints, coatings, and specialty materials.
@@ -35,4 +35,4 @@
     
     - Being **Key SME** for Pricing and Forecasting applications was responsible to recommend best price, plan/ execution for holiday sales and create various sales forecasting reports.
     
-    - Responsible for DB2 database administration, performance tuning and sizing for SCM domain.
+    - Responsible for DB2 DBA, performance tuning and sizing for SCM domain.
