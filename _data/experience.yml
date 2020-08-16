@@ -6,7 +6,7 @@
   #quote: >
   # A global supplier of paints, coatings, and specialty materials.
   description: | # this will include new lines to allow paragraphs
-    - Provide an overall architect responsibility for **data**/**delta lake** projects including roadmaps, leadership, planning, technical innovation, security, governance, performance benchmarking and reports.
+    - Provide an overall architect responsibility for **data**/**delta lake** projects including roadmaps, leadership, planning, technical innovation, security, governance, performance benchmarking, and reports.
 
 - company:  Cognizant, India
   #link: https://www.cognizant.com/
@@ -15,7 +15,7 @@
   #quote: >
   # A global supplier of paints, coatings, and specialty materials.
   description: | # this will include new lines to allow paragraphs
-    - Implemented Big Data Framework, Solutions and Algorithms with **Spark**, **Hadoop** and related technologies for next generation credit risk capabilities.
+    - Implemented Big Data Framework, Solutions and Algorithms with **Spark**, **Hadoop**, and related technologies for next-generation credit risk capabilities.
 
 
 - company:   Tata Consultancy Services, India
@@ -31,8 +31,8 @@
   # A global supplier of paints, coatings, and specialty materials.
   description: | # this will include new lines to allow paragraphs
     
-    - **Installation** and **configuration** of multi node Hadoop cluster including patches, updates, version upgrades etc.
+    - Installed, configured, and maintained **multi-tenant Hadoop** clusters with intermix ecosystem components.
     
-    - Being **Key SME** for Pricing and Forecasting applications was responsible to recommend best price, plan/ execution for holiday sales and create various sales forecasting reports.
+    - Being **Key SME** for Pricing and Forecasting applications was responsible to recommend best price, plan/ execution for holiday sales, and create various sales forecasting reports.
     
     - Responsible for DB2 DBA, performance tuning and sizing for SCM domain.
