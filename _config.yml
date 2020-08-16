@@ -35,7 +35,7 @@ additional_links:
 about_profile_image: assets/mohd.png
 about_content: | # this will include new lines to allow paragraphs
   Over 10 years of profound experience as <mark>Cloud Solution Architect</mark> for all types of **Data** (Big, Small, Fast, Semi-structured, whatever) and **Advanced Analytics** 
-  to drive high priority business initiatives on the Microsoft Azure, Cloudera, Hortonworks and Databricks Platform.
+  to drive high priority business initiatives on the Microsoft Azure, Cloudera, Hortonworks, and Databricks Platform.
   
   I am highly skilled in <mark>Azure Cloud</mark> and <mark>Big Data</mark> related technologies.
   
@@ -45,7 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
   optimized solutions which will provide efficient ways to manage, handle and reuse the data to generate more and more profit for organizations.
   
   Areas of Expertise
-    - **Platform Administration** and **Security** – Hadoop, Linux, Talend and Azure Cloud
+    - **Platform Administration** and **Security** – Hadoop, Linux, Talend, and Azure Cloud
     - **Scalable Data Ingestion** Pipelines – EDW, Modern DW and ETL
     - **Big Data** ecosystem setup and integration
     - **Real Time** Data Solution
