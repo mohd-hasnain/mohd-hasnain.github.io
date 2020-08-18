@@ -13,7 +13,6 @@ darkmode: never
 
 # Social links
 linkedin_username: mohdhasnain
-github_username:  mohd-hasnain
 
 # Additional icon links
 additional_links:
@@ -21,8 +20,10 @@ additional_links:
   icon: fa-blogger
   url: https://voidio.blogspot.com/
 - title: cclaim
-  icon: fa-angle-double-up
+  icon: fa-award
   url: https://www.youracclaim.com/users/mohd-hasnain/
+  
+github_username:  mohd-hasnain
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
