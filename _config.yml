@@ -18,7 +18,7 @@ github_username:  mohd-hasnain
 # Additional icon links
 additional_links:
 - title: blog
-  icon: fa-blogger-b
+  icon: fa-blogger
   url: https://voidio.blogspot.com/
 - title: cclaim
   icon: fa-certificate
