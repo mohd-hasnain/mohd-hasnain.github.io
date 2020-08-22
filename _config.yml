@@ -74,25 +74,23 @@ projects_title: Certifications #(Use this to override about projects section tit
 # More Section
 more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-    <mark>Big Data Technologies</mark> Spark, MapReduce, Flume, Kafka, Storm, Pig Latin, Cascading, Oozie, Sqoop, Hue, Tez, Impala, Drill, Hive, Beeline, Hcatalog
+    <mark>Big Data Technologies</mark> Spark, MapReduce, Flume, Kafka, Pig, Oozie, Sqoop, Hue, Tez, Impala, Hive, Hcatalog
     
-    <mark>File System</mark> HDFS, DBFS, ADLS, S3, blob, Sequence files, RCFile, HAR, Avro, Parquet, ORC, Delta
+    <mark>File System</mark> HDFS, DBFS, ADLS, S3, blob, RCFile, Avro, Parquet, ORC, Delta
 
     <mark>Distribution</mark> Databricks, Hadoop, Cloudera, Hortonworks, MapR
     
-    <mark>DevOps</mark> Azure DevOps, GitHub, Ansible, TFS, Jenkins, Maven, Nexus    
+    <mark>DevOps</mark> GitHub, Ansible, TFS, Jenkins, Maven, Nexus    
     
-    <mark>Languages</mark> Python, Scala, Java, SQL, Shell Scripting
+    <mark>Languages</mark> Python, Scala, Java, SQL, Bash
 
-    <mark>RDBMS</mark> MySQL, DB2, Teradata, SQL server
+    <mark>RDBMS</mark> MySQL, DB2, Teradata, SQL Server
     
     <mark>NoSQL</mark> OpenTSDB, Hbase, Cassandra, Cosmos DB
 
-    <mark>Security</mark> Kerberos, Ranger, Sentry, TDE, AD/LDAP, ACL
+    <mark>Security</mark> Kerberos, Ranger, Sentry, AD/LDAP, ACL
 
-    <mark>Monitoring</mark> Nagios, Ganglia, White Elephant, PRTG, DataDog
-
-    <mark>Cluster Manager</mark> Zookeeper, Mesos, YARN, Ambari, Cloudera Manager
+    <mark>Cluster Manager</mark> Zookeeper, YARN, Ambari, Cloudera Manager, Nagios, Ganglia, White Elephant, PRTG, DataDog
 
 # Footer
 footer_show_references: true
