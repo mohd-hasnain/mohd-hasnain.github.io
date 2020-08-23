@@ -72,7 +72,7 @@ projects_title: Certifications #(Use this to override about projects section tit
 # More Section
 more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-    <mark>BigData</mark> Spark, MapReduce, Flume, Kafka, Pig, Oozie, Sqoop, Hue, Tez, Impala, Hive, Hcatalog
+    <mark>BigData</mark> Spark, MapReduce, Flume, Kafka, Pig, Oozie, Sqoop, Hue, Tez, Impala, Hive, Hcatalog, Zookeeper, YARN, Ambari
     
     <mark>File System</mark> HDFS, DBFS, ADLS, blob, Avro, Parquet, ORC, Delta
 
@@ -89,8 +89,6 @@ more_content: | # this will include new lines to allow paragraphs
     <mark>Security</mark> Kerberos, Ranger, Sentry, AD/LDAP, ACL
     
     <mark>Monitoring</mark> Nagios, Ganglia, PRTG, DataDog
-
-    <mark>Cluster Manager</mark> Zookeeper, YARN, Ambari, Cloudera Manager
 
 # Footer
 footer_show_references: true
