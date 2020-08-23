@@ -74,7 +74,7 @@ more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
     <mark>BigData</mark> Spark, MapReduce, Flume, Kafka, Pig, Oozie, Sqoop, Hue, Tez, Impala, Hive, Hcatalog
     
-    <mark>File System</mark> HDFS, DBFS, ADLS, blob, RCFile, Avro, Parquet, ORC, Delta
+    <mark>File System</mark> HDFS, DBFS, ADLS, blob, Avro, Parquet, ORC, Delta
 
     <mark>Distribution</mark> Databricks, Hadoop, Cloudera, Hortonworks, MapR
     
