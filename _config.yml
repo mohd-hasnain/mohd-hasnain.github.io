@@ -72,23 +72,25 @@ projects_title: Certifications #(Use this to override about projects section tit
 # More Section
 more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-    <mark>Big Data Technologies</mark> Spark, MapReduce, Flume, Kafka, Pig, Oozie, Sqoop, Hue, Tez, Impala, Hive, Hcatalog
+    <mark>BigData </mark> Spark, MapReduce, Flume, Kafka, Pig, Oozie, Sqoop, Hue, Tez, Impala, Hive, Hcatalog
     
-    <mark>File System</mark> HDFS, DBFS, ADLS, S3, blob, RCFile, Avro, Parquet, ORC, Delta
+    <mark>File System</mark> HDFS, DBFS, ADLS, blob, RCFile, Avro, Parquet, ORC, Delta
 
     <mark>Distribution</mark> Databricks, Hadoop, Cloudera, Hortonworks, MapR
     
-    <mark>DevOps</mark> GitHub, Ansible, TFS, Jenkins, Maven, Nexus    
+    <mark>DevOps</mark> GitHub, Ansible, Jenkins, Maven, Nexus    
     
-    <mark>Languages</mark> Python, Scala, Java, SQL, Bash
+    <mark>Languages</mark> Python, Scala, Core Java, SQL, Bash
 
     <mark>RDBMS</mark> MySQL, DB2, Teradata, SQL Server
     
     <mark>NoSQL</mark> OpenTSDB, Hbase, Cassandra, Cosmos DB
 
     <mark>Security</mark> Kerberos, Ranger, Sentry, AD/LDAP, ACL
+    
+    <mark>Monitoring</mark> Nagios, Ganglia, PRTG, DataDog
 
-    <mark>Cluster Manager</mark> Zookeeper, YARN, Ambari, Cloudera Manager, Nagios, Ganglia, White Elephant, PRTG, DataDog
+    <mark>Cluster Manager</mark> Zookeeper, YARN, Ambari, Cloudera Manager
 
 # Footer
 footer_show_references: true
