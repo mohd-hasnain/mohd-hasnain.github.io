@@ -72,7 +72,7 @@ projects_title: Certifications #(Use this to override about projects section tit
 # More Section
 more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-    <mark>BigData </mark> Spark, MapReduce, Flume, Kafka, Pig, Oozie, Sqoop, Hue, Tez, Impala, Hive, Hcatalog
+    <mark>BigData</mark> Spark, MapReduce, Flume, Kafka, Pig, Oozie, Sqoop, Hue, Tez, Impala, Hive, Hcatalog
     
     <mark>File System</mark> HDFS, DBFS, ADLS, blob, RCFile, Avro, Parquet, ORC, Delta
 
