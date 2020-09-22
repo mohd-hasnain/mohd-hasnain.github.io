@@ -1,14 +1,21 @@
 # Project template
 - layout: top-middle
   description: | # this will include new lines to allow paragraphs
-      <mark>Microsoft Certified</mark> [Solutions Architect Expert](assets/main/Microsoft_Certified_Professional_Certificate_1.pdf), 
-      [DevOps Engineer Expert](assets/main/Microsoft_Certified_Professional_Certificate_0.pdf),
-      [Security Engineer Associate](assets/main/Microsoft_Certified_Professional_Certificate_3.pdf), 
-      [Administrator Associate](assets/main/Microsoft_Certified_Professional_Certificate_4.pdf), 
-      [Developer Associate](assets/main/Microsoft_Certified_Professional_Certificate_5.pdf), 
-      [Data Engineer Associate](assets/main/Microsoft_Certified_Professional_Certificate_6.pdf), 
-      [Fundamentals](assets/main/Microsoft_Certified_Professional_Certificate_2.pdf), 
-      [Trainer](assets/main/Microsoft_Certified_Professional_Certificate_7.pdf)
+      <mark>Cloudera Certified</mark> [CCA Hadoop and Spark Administrator (CCA131)](assets/main/CCA131.pdf)
+      
+      <mark>Microsoft Certified</mark>
+      
+      <mark>• Expert</mark> [Solutions Architect](assets/main/Microsoft_Certified_Professional_Certificate_1.pdf), 
+      [DevOps Engineer](assets/main/Microsoft_Certified_Professional_Certificate_0.pdf)
+      
+      <mark>• Associate</mark> [Data Engineer](assets/main/Microsoft_Certified_Professional_Certificate_6.pdf), 
+      [Azure Security Engineer](assets/main/Microsoft_Certified_Professional_Certificate_3.pdf), 
+      [Azure Developer](assets/main/Microsoft_Certified_Professional_Certificate_5.pdf), 
+      [Azure Administrator](assets/main/Microsoft_Certified_Professional_Certificate_4.pdf)
+      
+      <mark>• Fundamentals</mark> [Fundamentals](assets/main/Microsoft_Certified_Professional_Certificate_2.pdf)
+      
+      <mark>• Others</mark> [Microsoft Certified Trainer](assets/main/Microsoft_Certified_Professional_Certificate_7.pdf)
       
       <mark>PPG Certified</mark>  [Lean Six Sigma Green Belt](assets/main/sixsigma.jpg)
       
