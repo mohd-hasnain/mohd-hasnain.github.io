@@ -39,7 +39,7 @@ additional_links:
 about_profile_image: assets/mohd.png
 about_content: | # this will include new lines to allow paragraphs
   Over 10 years of profound experience as <mark>Cloud Solution Architect</mark> for all types of **Data** (Big, Small, Fast, Semi-structured, whatever) and **Infrastructure** 
-  to drive high priority business initiatives on the Microsoft Azure, Amazon AWS Cloudera, Hortonworks, and Databricks Platform.
+  to drive high priority business initiatives on the Microsoft Azure, Amazon AWS, Cloudera, Hortonworks, and Databricks Platform.
   
   I am highly skilled in <mark>Azure Cloud</mark> and <mark>Big Data</mark> related technologies.
   
@@ -59,7 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
     - **Blogger** - Follow my Technical Blogs at [**VoidIo**](https://voidio.blogspot.com/)
     - **Mentor** - Microsoft Certified [**Trainer**](https://www.youracclaim.com/badges/40d31f64-8811-45ea-8234-0e289b77b9c3/accept), 
     [**Azure Hero**](https://enjinx.io/eth/asset/63151533), 
-    [MAPA Champs-Azure](assets/mapa.jpg)
+    [**MAPA Champs-Azure**](assets/mapa.jpg)
     - PPG Awarded as [**Star of the Year**](assets/award.jpg) as recognition for the Data Lake projects success
 
 # Projects Section
