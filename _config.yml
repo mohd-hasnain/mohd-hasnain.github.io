@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Mohd Hasnain
-title: Cloud Solution Architect – Data & Infra
+title: Cloud Solution Architect
 email: mohd-hasnain@outlook.com
 #phone: +60 - 16 638 5810 
 
@@ -39,7 +39,7 @@ additional_links:
 about_profile_image: assets/mohd.png
 about_content: | # this will include new lines to allow paragraphs  
   Over a decade of experience as a **Solution Architect** for infrastructure and all types of data (big, small, fast, semi-structured, etc. ), 
-  including significant data solution consulting experience and strategic advisory with enterprise customers on the Microsoft **Azure** Amazon **AWS**, 
+  including significant consulting experience and strategic advisory with enterprise customers on the **Azure**, **AWS**, 
   **Cloudera**, **Hortonworks**, **Snowflake**, and **Databricks** platforms.
   
   My background includes pre-sales solution architecture to complicated solution execution using a variety of technologies.
