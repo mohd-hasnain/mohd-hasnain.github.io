@@ -77,7 +77,7 @@ more_content: | # this will include new lines to allow paragraphs
     
     <mark>File System</mark> HDFS, DBFS, ADLS, Blob, Avro, Parquet, ORC, Delta
 
-    <mark>Distribution</mark> Databricks, Hadoop, Cloudera, Hortonworks, MapR
+    <mark>Distribution</mark> Databricks, Snowflake, Hadoop, Cloudera, Hortonworks, MapR
     
     <mark>DevOps</mark> GitHub, Ansible, Jenkins, Maven, Nexus    
     
