@@ -38,9 +38,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/mohd.png
 about_content: | # this will include new lines to allow paragraphs  
-  Over a decade of experience as a <mark>Solution Architect</mark> for infrastructure and all types of data (big, small, fast, semi-structured, etc. ), 
+  Over a decade of experience as a **Solution Architect** for infrastructure and all types of data (big, small, fast, semi-structured, etc. ), 
   including significant data solution consulting experience and strategic advisory with enterprise customers on the Microsoft **Azure** Amazon **AWS**, 
   **Cloudera**, **Hortonworks**, **Snowflake**, and **Databricks** platforms.
+  
   My background includes pre-sales solution architecture to complicated solution execution using a variety of technologies.
   I began my career as a **Database Administrator**. It has helped me grasp the value of data for an organization and has influenced 
   me to improve architectures by combining a variety of skills to deliver the best solutions for managing, handling, and reusing data to 
