@@ -37,20 +37,18 @@ additional_links:
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/mohd.png
-about_content: | # this will include new lines to allow paragraphs
-  Over 10 years of profound experience as <mark>Cloud Solution Architect</mark> for all types of **Data** (Big, Small, Fast, Semi-structured, whatever) and **Infrastructure** 
-  to drive high priority business initiatives on the Microsoft Azure, Amazon AWS, Cloudera, Hortonworks, and Databricks Platform.
-  
-  I am highly skilled in <mark>Azure Cloud</mark> and <mark>Big Data</mark> related technologies.
-  
-  Started my career with information and data management as a **Database Administrator**. 
-  It helps me to understand the value and importance of data for any organization and inclined me towards improvising architectures 
-  by using a mixture of different skills to provide the best solutions which will provide efficient ways to manage, handle and reuse 
-  the data to generate more and more profit for organizations.
+about_content: | # this will include new lines to allow paragraphs  
+  Over a decade of experience as a <mark>Solution Architect</mark> for infrastructure and all types of data (big, small, fast, semi-structured, etc. ), 
+  including significant data solution consulting experience and strategic advisory with enterprise customers on the Microsoft **Azure** Amazon **AWS**, 
+  **Cloudera**, **Hortonworks**, **Snowflake**, and **Databricks** platforms.
+  My background includes pre-sales solution architecture to complicated solution execution using a variety of technologies.
+  I began my career as a **Database Administrator**. It has helped me grasp the value of data for an organization and has influenced 
+  me to improve architectures by combining a variety of skills to deliver the best solutions for managing, handling, and reusing data to 
+  produce more and more profit for organizations.
   
   Areas of Expertise
-    - **Platform Administration** and **Security** – Hadoop, Linux, Talend, and Azure Cloud
-    - **Scalable Data Ingestion** Pipelines – EDW, Modern DW and ETL
+    - **Platform Administration** and **Security** – Hadoop, Linux, Talend, and Cloud
+    - **Scalable Data Ingestion** Pipelines – EDW, MDW and ETL
     - **Big Data** ecosystem setup and integration
     - **Real Time** Data Solution
     
@@ -58,8 +56,8 @@ about_content: | # this will include new lines to allow paragraphs
     - **Marathon Runner**
     - **Blogger** - Follow my Technical Blogs at [**VoidIo**](https://voidio.blogspot.com/)
     - **Mentor** - Microsoft Certified [**Trainer**](https://www.youracclaim.com/badges/40d31f64-8811-45ea-8234-0e289b77b9c3/accept), 
-    [**Azure Hero**](https://enjinx.io/eth/asset/63151533), 
-    [**MAPA Champs-Azure**](assets/mapa.jpeg)
+    [**Azure Community Hero**](https://enjinx.io/eth/asset/63151533), 
+    [**Azure MAPA**](assets/mapa.jpeg)
     - PPG Awarded as [**Star of the Year**](assets/award.jpg) as recognition for the Data Lake projects success
 
 # Projects Section
